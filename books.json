@@ -1,0 +1,57 @@
+[
+  {
+    "bookId": "bb329a31-6b1e-4daa-87ee-71631aa05866",
+    "authorId": "e0d91f68-a183-477d-8aa4-1f44ccc78a70",
+    "publisherId": "2f7b19e9-b268-4440-a15b-bed8177ed607",
+    "title": "The Great Gatsby",
+    "publicationDate": "1925-04-10",
+    "isbn": "9780743273565",
+    "pages": 180,
+    "genre": "Novel",
+    "description": "Set in the 1920s, this classic novel explores themes of wealth, love, and the American Dream.",
+    "price": 15.99,
+    "quantity": 5
+  },
+  {
+    "bookId": "bb329a31-6b1e-4daa-87ee-71631aa05878",
+    "authorId": "e0d91f68-a183-477d-8aa4-1f44ccc78a80",
+    "publisherId": "2f7b19e9-b268-4440-a15b-bed8177ed90",
+    "title": "The Adventures of Tom Sawyer",
+    "publicationDate": "1925-04-10",
+    "isbn": "9780743273565",
+    "pages": 180,
+    "genre": "Novel",
+    "description": "Set in the 1920s, this classic novel explores themes of wealth, love, and the American Dream.",
+    "price": 15.99,
+    "quantity": 5
+  },
+  {
+    "bookId": "2",
+    "authorId": "e0d91f68-a183-477d-8aa4-1f44ccc78a70",
+    "publisherId": "2f7b19e9-b268-4440-a15b-bed8177ed607",
+    "title": "The Great Gatsby",
+    "publicationDate": "1925-04-10",
+    "isbn": "9780743273565",
+    "pages": 180,
+    "genre": "Novel",
+    "description": "Set in the 1920s, this classic novel explores themes of wealth, love, and the American Dream.",
+    "price": 15.99,
+    "quantity": 5
+  },
+
+    {
+      "bookId": "1",
+      "authorId": "a1",
+      "publisherId": "p1",
+      "title": "The Revolution",
+      "publicationDate": "2022-01-01",
+      "isbn": "123456",
+      "pages": 200,
+      "genre": "History",
+      "description": "This book is about the great revolution.",
+      "price": 19.99,
+      "quantity": 10
+    }
+
+  
+]
